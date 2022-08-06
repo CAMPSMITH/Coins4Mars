@@ -38,12 +38,12 @@ This projects consists of a set of Solidity Smart Contracts that create
 ![confirm 5 MARS buy](./images/confirm%20buy%205%20MARS.png)
 ![balance 5 mars](./images/Balance%205%20Mars.png)
 ### Crowdsale Weis Raised
+6 Ether was raised, which is equivilantly 6000000000000000000 weis.
 ![Crowdsale Weis Raised](./images/Crowdsale%20weis%20raised.png)
 ### KaseiCoin Total Supply
+A total supply of 6 KaseiCoin (MARS) was minted through the crowsdale, which is equivilantly 6000000000000000000 KaseiCoin bits.
 ![KaseiCoin Total Supply](./images/KaseiCoin%20Total%20Supply.png)
 
-crowdsale contract: 0x7A17a248c12D0238A049554ed87298ad2BC1Ee98
-token contract: 0x0cb92e4956176bdc523584AcEDcc058d24d9bCfA
 ---
 
 ## Contributors
