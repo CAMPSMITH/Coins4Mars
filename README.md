@@ -29,6 +29,18 @@ This projects consists of a set of Solidity Smart Contracts that create
 ![KaseiCoin Deployment-1](./images/KaseiCoin%20Deployment-1.png)
 ![KaseiCoin Deployment-1](./images/KaseiCoin%20Deployment-2.png)
 ![KaseiCoin Deployment-1](./images/KaseiCoin%20Deployment-3.png)
+### Buying 1 KaseiCoin (MARS) from Crowdsale Using First Account
+![buying 1 MARS from Crowdsale](./images/buying%201%20MARS%20from%20crowdsale.png)
+![confirm 1 MARS buy](./images/confirm%20buy%201%20MARS.png)
+![balance 1 mars](./images/Balanca%201%20Mars.png)
+### Buying 5 KaseiCoin (MARS) from Crowdsale Using Second Account
+![buying 5 MARS from Crowdsale](./images/buying%205%20MARS%20from%20crowdsale.png)
+![confirm 5 MARS buy](./images/confirm%20buy%205%20MARS.png)
+![balance 5 mars](./images/Balanca%205%20Mars.png)
+### Crowdsale Weis Raised
+![Crowdsale Weis Raised](./images/Crowdsale%20weis%20raised.png)
+### KaseiCoin Total Supply
+![KaseiCoin Total Supply](./images/KaseiCoin%20Total%20Supply.png)
 
 crowdsale contract: 0x7A17a248c12D0238A049554ed87298ad2BC1Ee98
 token contract: 0x0cb92e4956176bdc523584AcEDcc058d24d9bCfA
