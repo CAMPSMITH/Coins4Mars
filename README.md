@@ -36,7 +36,7 @@ This projects consists of a set of Solidity Smart Contracts that create
 ### Buying 5 KaseiCoin (MARS) from Crowdsale Using Second Account
 ![buying 5 MARS from Crowdsale](./images/buying%205%20MARS%20from%20crowdsale.png)
 ![confirm 5 MARS buy](./images/confirm%20buy%205%20MARS.png)
-![balance 5 mars](./images/Balanca%205%20Mars.png)
+![balance 5 mars](./images/Balance%205%20Mars.png)
 ### Crowdsale Weis Raised
 ![Crowdsale Weis Raised](./images/Crowdsale%20weis%20raised.png)
 ### KaseiCoin Total Supply
