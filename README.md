@@ -13,19 +13,25 @@ This projects consists of a set of Solidity Smart Contracts that create
 * **Solidity** - A language used to develop smart contracts on the Ethereum blockchain and other Ethereum Virtual Machine (EVM) compatible blockchains.
 * **Remix IDE** - A hosted Intdgrated Development Environment (IDE) that facilitates the development, testing and deployment of smart contracts written in Solidity. The Remix IDE is available at https://remix.ethereum.org/.
 * **OpenZeppelin** - an opensource library of Solidity contracts that facilitate the development of safe ERC 20 tokens.
+* **Ganache** - a utility to locally deploy and test smart contracts.
+* **MetaMask** - an ERC20 wallet.
 
 ---
 
-## Installation Guide
+## Evaluation Evidence
+### Compiling KaseiCoin
+![KaseiCoin compile](./images/kaseicoin%20compile.png)
+### Compiling KaseiCoinCrowdsale
+![KaseiCoinCrowdsale compile](./images/kaseicoincrowdsale%20compile.png)
+### Compiling KaseiCoinCrowdsaleDeployer
+![KaseiCoinCrowdsaleDeployer compile](./images/kaseicoin%20crowdsale%20deployer%20compile.png)
+### Deploying KaseiCoin
+![KaseiCoin Deployment-1](./images/KaseiCoin%20Deployment-1.png)
+![KaseiCoin Deployment-1](./images/KaseiCoin%20Deployment-2.png)
+![KaseiCoin Deployment-1](./images/KaseiCoin%20Deployment-3.png)
 
-TBD ...
-
----
-
-## Usage
-
-TBD ...
-
+crowdsale contract: 0x7A17a248c12D0238A049554ed87298ad2BC1Ee98
+token contract: 0x0cb92e4956176bdc523584AcEDcc058d24d9bCfA
 ---
 
 ## Contributors
