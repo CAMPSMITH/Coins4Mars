@@ -44,6 +44,30 @@ This projects consists of a set of Solidity Smart Contracts that create
 A total supply of 6 KaseiCoin (MARS) was minted through the crowsdale, which is equivilantly 6000000000000000000 KaseiCoin bits.
 ![KaseiCoin Total Supply](./images/KaseiCoin%20Total%20Supply.png)
 
+### Enchanced Crowsale
+
+In the following screenshots, the crowdsale contract was enhanced by inheriting:
+
+* CappedCrowdsale
+* TimedCrowdsale
+* RefundablePostDeliveryCrowdsale
+
+#### Compiling the Enhanced Crowdsale Contract
+![Compiling the Enhanced Crowdsale Contract](./images/Comnpiling%20Enhanced%20Crowdsale.png)
+
+#### Deploying the Enhanced Crowdsale Contract
+![Deploying the Enhanced Crowdsale Contract](./images/Deploying%20Enhanced%20Crowdsale.png)
+
+#### Buying 12 Mars
+![Buying 12 Mars](./images/Crowdsale%20-%20buying%2012%20MARS.png)
+
+#### Open Crowdsale Meets Goal
+![Open Crowdsale Meets Goal](./images/Crowdsale%20-%20goal%20reached.png)
+
+
+#### Crowdsale Finalized - Meets Goal
+![Crowdsale Finalized - Meets Goal](./images/Crowdsale%20closed%20-%20goal%20reached.png)
+
 ---
 
 ## Contributors
